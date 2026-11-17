@@ -7,7 +7,7 @@ University of San Diego
 
 ## Project Overview
 
-θVision investigates how computer vision models recognize
+ThetaVision investigates how computer vision models recognize
 handwritten mathematical expressions and convert them into
 machine-readable LaTeX notation.
 
